@@ -9,5 +9,10 @@ This repo contains all my practice codes, exercises while I learn and explore Py
 - Data Types
 - Conditional Statements
 - List
+
+## Topics Covered(Day 2)
+- Tuple
+- Set
+- Dictionary
 ## Goal
 - To learn Python step by step and build a strong foundation through practice.
