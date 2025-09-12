@@ -14,5 +14,6 @@ This repo contains all my practice codes, exercises while I learn and explore Py
 - Tuple
 - Set
 - Dictionary
+- Loops(For, While, Nested loop)
 ## Goal
 - To learn Python step by step and build a strong foundation through practice.
