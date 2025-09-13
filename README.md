@@ -16,5 +16,10 @@ This repo contains all my practice codes, exercises while I learn and explore Py
 - Dictionary
 - Loops(For, While, Nested loop)
   - **Note** *:- While loop will continue on day 3.
+ 
+## Topics Covered(Day 3)
+- While loop
+- Functions
+- OOP(Object Oriented Programming)
 ## Goal
 - To learn Python step by step and build a strong foundation through practice.
