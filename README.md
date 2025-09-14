@@ -21,5 +21,10 @@ This repo contains all my practice codes, exercises while I learn and explore Py
 - While loop
 - Functions
 - OOP(Object Oriented Programming)
+
+## Topics Covered(Day 4)
+- Numpy Array
+- Central of Tendency
+- Measure of Dispersion
 ## Goal
 - To learn Python step by step and build a strong foundation through practice.
