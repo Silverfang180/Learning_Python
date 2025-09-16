@@ -32,5 +32,8 @@ This repo contains all my practice codes, exercises while I learn and explore Py
   - Variance
   - Standard Deviation
   - Range
+
+## Topic Covered(Day 5)
+- We perform Data Analysis in given dataset
 ## Goal
 - To learn Python step by step and build a strong foundation through practice.
