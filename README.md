@@ -35,5 +35,8 @@ This repo contains all my practice codes, exercises while I learn and explore Py
 
 ## Topic Covered(Day 5)
 - We perform Data Analysis in given dataset
+- - like Data preprocessing, visualization, etc.
+## Topic Covered(Day 6)
+- In day 6, we continue day 5 task and explore & visualize the dataset.
 ## Goal
 - To learn Python step by step and build a strong foundation through practice.
